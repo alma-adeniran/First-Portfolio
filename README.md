@@ -15,3 +15,18 @@ Tableau was used to clean the data, this dashboard represents the following KPIÂ
 4. Monthly % traffic volume for each country.
 
 ![](https://github.com/alma-adeniran/Porfolio/blob/5f14121221a856722ad65fa394dbf0761241d679/images/2nd%20project.png)
+
+# SUPERSTORE SALES DASHBOARD
+
+![](https://github.com/alma-adeniran/Porfolio/blob/878047f4dc3d73428b3ceddeb9a4c02fc2ecd0b1/images/superstore%20dashboard.png)
+
+This dashboard provides insights into the sales at a superstore.
+
+* Data was provided by the Quantum Analytics Group.
+* Data visualization tool used is Tableau.
+
+The following KPIÂ´s where generated
+1. Top 10 selling products
+2. Sales generated per State.
+3. Sales generated per Region.
+4. Profit Chart for all products sold.
