@@ -13,3 +13,5 @@ Tableau was used to clean the data, this dashboard represents the following KPIÂ
 2. % Traffic volume by country.
 3. Top 10 afftected airports
 4. Monthly % traffic volume for each country.
+
+![](https://github.com/alma-adeniran/Porfolio/blob/5f14121221a856722ad65fa394dbf0761241d679/images/2nd%20project.png)
